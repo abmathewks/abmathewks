@@ -1,6 +1,6 @@
 ### Introduction 
 
-- My name is Abraham and I'm a senior data scientist with over 6 years of professional experience
+- My name is Abraham and I'm a data scientist with over 6 years of professional experience in analytics, advanced analytics, and data science.
 - Am comfortable with both R and Python, though I do enjoy R a bit more as it's syntactically concise.
 
 Where to find me:
