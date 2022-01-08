@@ -9,5 +9,9 @@ Where to find me:
 - Code Samples: gist.github.com/abmathewks 
 - Email: mathewanalytics@gmail.com
 
+R Packages: 
+- GoodeR: A package that attempts to package up many of my most common tasks
 
+Python Library: 
+- GoodPy: Pending 
 
