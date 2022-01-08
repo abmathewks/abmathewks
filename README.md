@@ -1,16 +1,13 @@
-### Hi there 👋
+### Introduction 
 
-<!--
-**abmathewks/abmathewks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- My name is Abraham and I'm a senior data scientist with over 6 years of professional experience
+- Am comfortable with both R and Python, though I do enjoy R a bit more as it's syntactically concise.
 
-Here are some ideas to get you started:
+Where to find me:
+- Blog: mathewanalytics.com
+- Twitter: @abmathewks 
+- Code Samples: gist.github.com/abmathewks 
+- Email: mathewanalytics@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
