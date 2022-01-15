@@ -8,6 +8,7 @@ Where to find me:
 - Twitter: @abmathewks 
 - Code Samples: gist.github.com/abmathewks 
 - Email: mathewanalytics@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abraham-mathew-21221b29/
 
 R Packages: 
 - GoodeR: A package that attempts to package up many of my most common tasks
